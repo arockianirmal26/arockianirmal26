@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arockia Nirmal Amala Doss based in Germany.
 - 👀 I am an Database/ETL Developer by profession. I’m interested in Data Engineering.
-- 🌱 I’m currently learning Python/AWS and I am buiding Data Engineering related hobby projects using the same.
 - 💞️ I’m looking to collaborate on interseting projects in the field of Data Enginnering.
 - 📫 You can reach me on arockianirmal26@gmail.com.
 
